@@ -1,6 +1,8 @@
+<img width="1440" alt="CuraLinkAI Demo" src="https://github.com/user-attachments/assets/bbd4b95c-88df-4d5e-9d6d-64ba1ff2563c">
+
 CuraLinkAI
 
-This project is a Medical Consultation Application built using ReactJS and NodeJS. It integrates the OpenAI API to provide real-time, context-aware medical advice and symptom analysis. This tool aims to help users access quick and reliable health information and recommendations based on symptoms and medical inquiries.
+This project is a Medical Consultation Application built using ReactJS and NodeJS. It integrates the OpenAI GPT-3.5 Turbo model to provide real-time, context-aware medical advice and symptom analysis. This tool aims to help users access quick and reliable health information and recommendations based on symptoms and medical inquiries.
 
 Key Features
 
